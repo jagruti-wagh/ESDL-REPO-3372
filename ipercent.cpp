@@ -2,5 +2,6 @@
 int main()
 {
 cout<<"Hello!";
+cout<<"Good Morning";
 return 0;
 }
